@@ -1,4 +1,4 @@
-# GABA-TLS
+# GABA promotes resistance to immunotherapy of patients with TLS-positive tumours
 Code for reproducing analysis on the paper "GABA promotes resistance to immunotherapy of patients with TLS-positive tumours".
 ![alt text](https://github.com/iS4i4S/GABA-TLS/blob/main/Data/Graphical_abstract.jpg "Graphical Abstract")
 
