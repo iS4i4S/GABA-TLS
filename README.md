@@ -32,7 +32,7 @@ Visualize HTML files containing the code for each main figure by clicking on the
 
 
 ## Data avaliability
-Processed spatial transcriptomic, and raw RNA-seq data from the BioniKK cohort has been deposited on gene expression omnibus (GEO) under the accession IDs [GSEXXXXXX](pending). 
+Processed spatial transcriptomic, and raw RNA-seq data from the BioniKK cohort has been deposited on gene expression omnibus (GEO) under the accession IDs [GSE273952](pending) and [GSE273829](pending), respectively. 
 
 ## Contact
 E-mail any questions to [isaias.hernandez@sorbonne-universite.fr].
