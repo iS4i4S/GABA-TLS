@@ -1,15 +1,15 @@
-# GABA promotes resistance to immunotherapy of patients with TLS-positive tumours
-Code for reproducing analysis on the paper "GABA promotes resistance to immunotherapy of patients with TLS-positive tumours".
+# GABA promotes resistance to immunotherapy of patients with TLS-positive tumors
+Code for reproducing analysis on the paper "GABA promotes resistance to immunotherapy of patients with TLS-positive tumors".
 ![alt text](https://github.com/iS4i4S/GABA-TLS/blob/main/Data/Graphical_abstract.jpg "Graphical Abstract")
 
 ## Abstract
 
-Tertiary lymphoid structures (TLS) in the tumour microenvironment have been linked to positive clinical outcomes and responses to immune checkpoint inhibitors (ICI) in various cancers, including clear cell renal cell carcinoma (ccRCC) and soft tissue sarcoma (STS). However, a significant proportion of patients do not respond to ICI despite the presence of TLS. Our study unravels gamma-aminobutyric acid (GABA), a neurotransmission inhibitor, as a modulator of ICI resistance in TLS-positive tumours. By leveraging household and public multi-omic data, we demonstrated that GABA is upregulated in TLS-positive ccRCC and STS tumours from non-responders to ICI. In metastatic ccRCC, TLS from non-responders were distinguished from responders by a dysfunctional immune activation and a close proximity to GABA-producing proximal tubule-like tumour cells. The addition of a competitive inhibitor of GABA synthesis, 3-mercaptopropionic acid, significantly improved tumour control when compared to anti-PD1 alone when intra-tumourally injected in a mouse model of STS. Overall, our findings highlight GABA as a novel determinant of non-response to ICI in tumours harboring TLS, suggesting potential new approaches for patient stratification and personalized therapeutic strategies that could be applicable beyond metastatic ccRCC and STS.
+​​Tertiary lymphoid structures (TLS) correlate with favorable responses to immune checkpoint inhibitors (ICI) in various cancers, yet many patients with TLS-positive tumors are resistant to treatment. Multi-omic profiling of clear cell renal cell carcinoma (ccRCC) and soft tissue sarcoma tumors (STS) revealed upregulation of signatures of the neurotransmission inhibitor gamma-aminobutyric acid (GABA) in non-responders. In ccRCC, TLS from non-responders located near GABA-producing tumor cells exhibited impaired B cell maturation, reduced IgG production, higher GABA receptor expression and tricarboxylic acid cycle activation. In vitro, GABA exposure reduced HLA-DR expression, proliferation and immunoglobulin secretion by human B cells by both receptor dependent and independent mechanisms. Pharmacological inhibition of GABA synthesis increased ICI response and immune infiltration, particularly by B cells, in a TLS-positive STS mouse model. Our findings unravel GABA as a novel immunoregulatory metabolite and provide a rationale for its therapeutic targeting to overcome ICI resistance in patients with TLS-positive tumors.
 
 ## Citation
 If you use any data or code derived from this study, please cite:
 
-- Isaias Hernández-Verdin, Anne Calvez, et al. GABA promotes resistance to immunotherapy of patients with TLS-positive tumours.  Under revision (202X).
+- Isaias Hernández-Verdin, Anne Calvez, Cheng-Ming Sun,et al. GABA promotes resistance to immunotherapy of patients with TLS-positive tumors.  Under revision (2026).
 - DOI: Currently under revision.
 
 
