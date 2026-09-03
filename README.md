@@ -10,7 +10,7 @@ Code for reproducing analysis on the paper "GABA promotes resistance to immunoth
 If you use any data or code derived from this study, please cite:
 
 - Isaias Hernández-Verdin, Anne Calvez, Cheng-Ming Sun,et al. GABA promotes resistance to immunotherapy of patients with TLS-positive tumors.  Cancer Cell (2026).
-- DOI: 10.1016/j.ccell.2026.06.006
+- DOI: [10.1016/j.ccell.2026.06.006](https://www.cell.com/cancer-cell/abstract/S1535-6108(26)00293-X)
 
 
 ## Code to reproduce main Figures
