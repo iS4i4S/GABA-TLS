@@ -9,8 +9,8 @@ Code for reproducing analysis on the paper "GABA promotes resistance to immunoth
 ## Citation
 If you use any data or code derived from this study, please cite:
 
-- Isaias Hernández-Verdin, Anne Calvez, Cheng-Ming Sun,et al. GABA promotes resistance to immunotherapy of patients with TLS-positive tumors.  Under revision (2026).
-- DOI: Currently under revision.
+- Isaias Hernández-Verdin, Anne Calvez, Cheng-Ming Sun,et al. GABA promotes resistance to immunotherapy of patients with TLS-positive tumors.  Cancer Cell (2026).
+- DOI: 10.1016/j.ccell.2026.06.006
 
 
 ## Code to reproduce main Figures
@@ -35,7 +35,7 @@ Visualize HTML files containing the code for each main figure by clicking on the
 
 
 ## Data avaliability
-Processed spatial transcriptomic, and raw RNA-seq data from the BioniKK cohort has been deposited on gene expression omnibus (GEO) under the accession IDs [GSE273952](pending) and [GSE273829](pending), respectively. 
+Processed spatial transcriptomic, and raw RNA-seq data from the BioniKK cohort has been deposited on gene expression omnibus (GEO) under the accession IDs [GSE273952](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE273952) and [GSE273829](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE273829), respectively. 
 
 ## Contact
 E-mail any questions to [isaias.hernandez@sorbonne-universite.fr].
